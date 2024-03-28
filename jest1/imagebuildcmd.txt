@@ -1,0 +1,3 @@
+. represent current working directory if another location provide full path
+
+docker build -t pharma-image .
